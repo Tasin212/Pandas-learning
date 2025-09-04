@@ -1,0 +1,12 @@
+# Ignore data folder
+/data/
+
+# Ignore specific large file types
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.zip
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
